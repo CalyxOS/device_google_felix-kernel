@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7347ff28_c3922b54",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-03T22:21:24Z",
+      "side": 1,
+      "message": "`Linux version 5.10.157-android13-4-ab23410032 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Apr 4 08:07:13 UTC 2023`",
+      "revId": "33af1a8459b994584f61f3e37ad45feda4ee4224",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
